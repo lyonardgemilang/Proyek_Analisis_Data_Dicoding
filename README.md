@@ -7,6 +7,8 @@ pip install -r requirements.txt
 ```
 ## Struktur Folder
 submission
+├───.devcontainer
+|├───devcontainer.json
 ├───dashboard
 | ├───dashboard.py
 | └───day_clean.csv

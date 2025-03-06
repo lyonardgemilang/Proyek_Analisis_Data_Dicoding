@@ -4,4 +4,3 @@ pandas==1.5.3
 seaborn
 streamlit
 numpy==1.23.5
-python==3.10

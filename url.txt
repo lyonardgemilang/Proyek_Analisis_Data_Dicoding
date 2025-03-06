@@ -1,0 +1,8 @@
+Untuk run streamlit:
+streamlit run dashboard/dashboard.py 
+
+Local URL:
+http://localhost:8501
+
+Network URL:
+http://192.168.1.12:8501
